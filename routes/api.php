@@ -6,6 +6,8 @@ use Illuminate\Support\Facades\Route;
 use App\Models\Student;
 // this is for 30
 use App\Http\Controllers\api\StudentsController;
+
+// for the lab
 /*
 |--------------------------------------------------------------------------
 | API Routes
